@@ -1,0 +1,24 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "scss test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaodin/ScssPractice.git"
+  },
+  "author": "Christian Cartes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfaodin/ScssPractice/issues"
+  },
+  "homepage": "https://github.com/alfaodin/ScssPractice#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "node-sass": "^4.7.2"
+  }
+}
